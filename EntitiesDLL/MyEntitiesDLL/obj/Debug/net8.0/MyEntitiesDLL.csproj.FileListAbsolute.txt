@@ -1,0 +1,11 @@
+C:\Users\islem\source\repos\MyEntitiesDLL\MyEntitiesDLL\bin\Debug\net8.0\MyEntitiesDLL.deps.json
+C:\Users\islem\source\repos\MyEntitiesDLL\MyEntitiesDLL\bin\Debug\net8.0\MyEntitiesDLL.dll
+C:\Users\islem\source\repos\MyEntitiesDLL\MyEntitiesDLL\bin\Debug\net8.0\MyEntitiesDLL.pdb
+C:\Users\islem\source\repos\MyEntitiesDLL\MyEntitiesDLL\obj\Debug\net8.0\MyEntitiesDLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\islem\source\repos\MyEntitiesDLL\MyEntitiesDLL\obj\Debug\net8.0\MyEntitiesDLL.AssemblyInfoInputs.cache
+C:\Users\islem\source\repos\MyEntitiesDLL\MyEntitiesDLL\obj\Debug\net8.0\MyEntitiesDLL.AssemblyInfo.cs
+C:\Users\islem\source\repos\MyEntitiesDLL\MyEntitiesDLL\obj\Debug\net8.0\MyEntitiesDLL.csproj.CoreCompileInputs.cache
+C:\Users\islem\source\repos\MyEntitiesDLL\MyEntitiesDLL\obj\Debug\net8.0\MyEntitiesDLL.dll
+C:\Users\islem\source\repos\MyEntitiesDLL\MyEntitiesDLL\obj\Debug\net8.0\refint\MyEntitiesDLL.dll
+C:\Users\islem\source\repos\MyEntitiesDLL\MyEntitiesDLL\obj\Debug\net8.0\MyEntitiesDLL.pdb
+C:\Users\islem\source\repos\MyEntitiesDLL\MyEntitiesDLL\obj\Debug\net8.0\ref\MyEntitiesDLL.dll
