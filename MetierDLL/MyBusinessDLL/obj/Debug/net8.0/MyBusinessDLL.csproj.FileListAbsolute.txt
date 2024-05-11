@@ -1,0 +1,15 @@
+C:\Users\islem\source\repos\MyBusinessDLL\MyBusinessDLL\bin\Debug\net8.0\MyBusinessDLL.deps.json
+C:\Users\islem\source\repos\MyBusinessDLL\MyBusinessDLL\bin\Debug\net8.0\MyBusinessDLL.dll
+C:\Users\islem\source\repos\MyBusinessDLL\MyBusinessDLL\bin\Debug\net8.0\MyBusinessDLL.pdb
+C:\Users\islem\source\repos\MyBusinessDLL\MyBusinessDLL\bin\Debug\net8.0\MyEntitiesDLL.dll
+C:\Users\islem\source\repos\MyBusinessDLL\MyBusinessDLL\bin\Debug\net8.0\MyEntitiesDLL.pdb
+C:\Users\islem\source\repos\MyBusinessDLL\MyBusinessDLL\obj\Debug\net8.0\MyBusinessDLL.csproj.AssemblyReference.cache
+C:\Users\islem\source\repos\MyBusinessDLL\MyBusinessDLL\obj\Debug\net8.0\MyBusinessDLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\islem\source\repos\MyBusinessDLL\MyBusinessDLL\obj\Debug\net8.0\MyBusinessDLL.AssemblyInfoInputs.cache
+C:\Users\islem\source\repos\MyBusinessDLL\MyBusinessDLL\obj\Debug\net8.0\MyBusinessDLL.AssemblyInfo.cs
+C:\Users\islem\source\repos\MyBusinessDLL\MyBusinessDLL\obj\Debug\net8.0\MyBusinessDLL.csproj.CoreCompileInputs.cache
+C:\Users\islem\source\repos\MyBusinessDLL\MyBusinessDLL\obj\Debug\net8.0\MyBusine.E0C3711E.Up2Date
+C:\Users\islem\source\repos\MyBusinessDLL\MyBusinessDLL\obj\Debug\net8.0\MyBusinessDLL.dll
+C:\Users\islem\source\repos\MyBusinessDLL\MyBusinessDLL\obj\Debug\net8.0\refint\MyBusinessDLL.dll
+C:\Users\islem\source\repos\MyBusinessDLL\MyBusinessDLL\obj\Debug\net8.0\MyBusinessDLL.pdb
+C:\Users\islem\source\repos\MyBusinessDLL\MyBusinessDLL\obj\Debug\net8.0\ref\MyBusinessDLL.dll
